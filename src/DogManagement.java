@@ -1,7 +1,5 @@
 /*--------------------------------------------
-Program 5: MPLS Dog Management System
-	
-    [REPLACE MY INFORMATION WITH YOURS]
+Program 6: MPLS Dog Management System
     Course: COMP 170, Spring I 2023
     System: Visual Studio Code, Windows 10
     Author: C. Fulton
